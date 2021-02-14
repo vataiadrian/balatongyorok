@@ -1,5 +1,6 @@
 body{
     background-image: url(./back.jpg);
+    background-size: cover;
 }
 div{
     width: 1000px;
@@ -10,8 +11,8 @@ header{
     min-width: 650px;
     background-image: url(panorama.jpg);
     background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover; 
+    background-position: center;
+    background-size: cover; 
     height: 200px;
     padding: 20px;
 }
