@@ -5,3 +5,18 @@ div{
     width: 1000px;
     margin: auto;
 }
+header{
+    max-width: 1000px;
+    min-width: 650px;
+    background-image: url(panorama.jpg);
+    background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover; 
+    height: 200px;
+    padding: 20px;
+}
+#cimer img{
+    width: 150px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
